@@ -1,0 +1,1 @@
+name ="ziconglao";age = 31;print(f"名字:{name}，年龄:{age}")
