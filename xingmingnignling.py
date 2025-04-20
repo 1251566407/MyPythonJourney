@@ -1,1 +1,2 @@
-name ="ziconglao";age = 31;print(f"名字:{name}，年龄:{age}")
+for i in range(1,10):  
+    for j in range(1,i+1): print(f"{j}x{i}={i*j}\t", end="")
