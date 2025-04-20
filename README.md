@@ -7,4 +7,4 @@
      -2025-04-20:用户信息输入（`input(）`函数应用）
      -2025-04-20:Hello Python合并至main分支
      ## 合并记录
-     - 2025-04-20: 从`dev/0402_HelloPython`合并基础脚本，包含Hello Python输出功能
+     -2025-04-20: 从`dev/0402_HelloPython`合并基础脚本，包含Hello Python输出功能
